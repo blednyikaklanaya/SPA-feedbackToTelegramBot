@@ -1,0 +1,30 @@
+.how-we-work-card {
+    margin-top: 67px;
+
+    font-family: "Comfortaa", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 22px;
+    font-style: normal;
+
+    width: 450px;
+
+    animation: how-we-work-card--animation 0.9s;
+}
+
+/* animation */
+
+@keyframes how-we-work-card--animation {
+    0% {
+        margin-left: -400px;
+        opacity: 0.1;
+    }
+
+    50% {
+        margin-left: 50px;
+    }
+
+    100% {
+
+    }
+}
