@@ -2,7 +2,7 @@ import { Component } from "react";
 import "./app.css"
 //import
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HistoryRouter } from "react-router-dom";
 //import routing
 
 
